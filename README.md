@@ -26,7 +26,7 @@ file.c
 # 모든 .c 확장자 파일
 *.c
 ```
-[image](https://github.com/KHYOGYEONG/gitgit/assets/159119670/75c8ffe2-736d-4037-a615-28cc731525e5)
+![image](https://github.com/KHYOGYEONG/gitgit/assets/159119670/75c8ffe2-736d-4037-a615-28cc731525e5)
 
 ![image](https://github.com/KHYOGYEONG/gitgit/assets/159119670/2a975dba-ff7e-4384-9037-7ea4584e4680)
 
