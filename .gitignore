@@ -1,0 +1,5 @@
+## .gitignore이라고 하면 git에 저장안됨
+/private # 파일지정
+*.com #확장자가 com인걸 git에 등록안하겠다
+private.* #파일명이 이거인거 등록x
+
